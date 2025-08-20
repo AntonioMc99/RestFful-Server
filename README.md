@@ -1,1 +1,1 @@
-# RestFful-Server
+This is a little Movie Finder API I built with Node.js and Express. It talks to the OMDb API and lets you search for movies or grab details by IMDb ID. It doesn’t store anything itself, it just fetches from OMDb and sends the results back as JSON. 
